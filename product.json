@@ -1,0 +1,205 @@
+[
+    {
+        "id":1,
+        "name": "NCT 4th Album 'Golden Age' By NCT2023 ", 
+        "title":"NCT",
+        "price":200,
+        "image":"images/1.jpg"
+       
+    
+    },
+    {
+        "id":2,
+        "name": "NCT DREAM 3rd Full Album 'ISTJ'",
+        "title":"NCT DREAM", 
+        "price":230,
+        "image":"images/2.jpg"
+    
+    },
+    {
+        "id":3,
+        "name": "REPLAY - The 8th Repackage Album  ",
+        "title":" SUPER JUNIOR", 
+        "price":250,
+        "image":"images/3.jpeg"
+    
+    },
+    {
+        "id":4,
+        "name": "One More Time - Special Mini Album ",
+        "title":"SUPER JUNIOR", 
+        "price":260,
+        "image":"images/4.jpeg"
+    
+    },
+    {
+        "id":5,
+        "name": "THE BOYZ 5th MINI ALBUM [CHASE] ",
+        "title":"THE BOYZ", 
+        "price":300,
+        "image":"images/5.jpeg"
+    
+    },
+    {
+        "id":6,
+        "name": "SEVENTEEN 10th Mini Album 'FML' ", 
+        "title":"SEVENTEEN",
+        "price":320,
+        "image":"images/6.jpeg"
+    
+    },
+    {
+        "id":7,
+        "name": "THE 7th Album 'MAMACITA'  ", 
+        "title":" SUPER JUNIOR",
+        "price":270,
+        "image":"images/7.jpeg"
+    
+    },
+    {
+        "id":8,
+        "name": "NCT Universe The 3RD Album by NCT2021",
+        "title":"NCT", 
+        "price":400,
+        "image":"images/8.jpg"
+    
+    },
+    {
+        "id":9,
+        "name": "NCT 127 The 5th Album [Fact Check] ", 
+        "title":"NCT127",
+        "price":400,
+        "image":"images/5.jpg"
+    
+    },{
+        "id":10,
+        "name": " NCT DREAM 1ST FULL ALBUM [맛(HOT SAUCE)]",
+        "title":"NCT DREAM", 
+        "price":400,
+        "image":"images/10.jpg"
+    
+    },
+    {
+        "id":11,
+        "name": "SEVENTEEN 9th Mini Album 'Attacca' ", 
+        "title":"SEVENTEEN",
+        "price":400,
+        "image":"images/11.jpeg"
+    
+    },
+    {
+        "id":12,
+        "name": "NCT RESONANCE Pt.2  NCT2020",
+        "title":"NCT", 
+        "price":400,
+        "image":"images/12.jpg"
+    
+    }
+    ,
+    {
+        "id":13,
+        "name": "LOVE YOURSELF: Her ", 
+        "title":"BTS",
+        "price":400,
+        "image":"images/13.jpg"
+    
+    }
+    ,
+    {
+        "id":14,
+        "name": "Love Yourself 轉 'Tear' ", 
+        "title":"BTS",
+        "price":400,
+        "image":"images/14.jpg"
+    
+    }
+    ,
+    {
+        "id":15,
+        "name": "Love Yourself 結 'Answer' ", 
+        "title":"BTS",
+        "price":400,
+        "image":"images/15.jpg"
+    
+    }
+    ,
+    {
+        "id":16,
+        "name": " Map Of The Soul: PERSONA ", 
+        "title":"BTS",
+        "price":400,
+        "image":"images/16.jpg"
+    
+    }
+    ,
+    {
+        "id":17,
+        "name": " The Renaissance ", 
+        "title":"SUPER JUNIOR ",
+        "price":400,
+        "image":"images/17.jpg"
+    
+    }
+    ,
+    {
+        "id":18,
+        "name": "THE BOYZ 4th MINI ALBUM [DREAMLIKE] ", 
+        "title":"THE BOYZ",
+        "price":400,
+        "image":"images/18.jpeg"
+    
+    }
+    ,
+    {
+        "id":19,
+        "name": "SEVENTEEN 4th Album 'Face the Sun' ", 
+        "title":"SEVENTEEN ",
+        "price":400,
+        "image":"images/19.jpeg"
+    
+    }
+    ,
+    {
+        "id":20,
+        "name": " NCT DREAM [DREAM( )SCAPE]  ", 
+        "title":" NCT DREAM  ",
+        "price":400,
+        "image":"images/20.jpeg"
+    
+    }
+    ,
+    {
+        "id":21,
+        "name": "[PHANTASY] Pt.1 Christmas In August ", 
+        "title":"THE BOYZ  ",
+        "price":400,
+        "image":"images/21.jpeg"
+    
+    }
+    ,
+    {
+        "id":22,
+        "name": " SEVENTEEN's 11TH MINI ALBUM SEVENTEENTH HEAVEN ", 
+        "title":"SEVENTEEN ",
+        "price":400,
+        "image":"images/22.jpeg"
+    
+    }
+    ,
+    {
+        "id":23,
+        "name": "Neo Zone: The Final Round  ", 
+        "title":"NCT127   ",
+        "price":400,
+        "image":"images/23.jpg"
+    
+    } ,
+    {
+        "id":24,
+        "name": "[PHANTASY] Pt.2 Sixth Sense  ", 
+        "title":"THE BOYZ  ",
+        "price":400,
+        "image":"images/24.jpeg"
+    
+    }
+    ]
